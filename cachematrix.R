@@ -1,5 +1,4 @@
-## Put comments here that give an overall description of what your
-## functions do
+## Create a cacheable object of an invertable matrix and then solve and cache the solution thereof
 
 ## c <- makeCacheMatrix(x) creates a 'cacheable' object 'c' of a given matrix 'x',
 ## to be passed as a parameter to cacheResolve(m)
